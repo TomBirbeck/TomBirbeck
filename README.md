@@ -4,6 +4,7 @@
 -     I have experience working with HTML, CSS, Javascript, React, Node.js, SQL. 
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
+https://www.codewars.com/users/TomBirbeck/badges/large
 
 <!---
 TomBirbeck/TomBirbeck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
