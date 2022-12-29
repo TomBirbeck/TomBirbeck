@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TomBirbeck
 - 👀 I’m interested in coding, music, sports, gaming.
 - 🌱 I have just graduated from The School of Code and I'm now continuing my learning journey.
--     I have experience working with HTML, CSS, Javascript, Typescript, React, Nextjs, Node.js, SQL, Primsa, Auth0. 
+-     I have experience working with HTML, CSS, Javascript, Typescript, React, Nextjs, Vite, Node.js, SQL, Primsa, Heroku, Render, Railway, Auth0. 
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 <img src="https://www.codewars.com/users/TomBirbeck/badges/large"/>
