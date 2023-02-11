@@ -5,6 +5,7 @@ I have just graduated from <a href='https://www.schoolofcode.co.uk/' target='_bl
 ## Finding me
 <a href='https://www.linkedin.com/in/tom-birbeck/' target="_blank">Linkedin</a>\
 <a href='https://portfolio-tombirbeck.vercel.app/' target="_blank">Portfolio</a>
+<a href='https://www.frontendmentor.io/profile/TomBirbeck' target="_blank">Frontend Mentor</a>
 
  ### Front end tech I have experience with
  - HTML, CSS, Javascript, Typescript, React, Nextjs, Vite.
