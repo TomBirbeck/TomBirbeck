@@ -1,6 +1,6 @@
 # Hey There, I’m Tom
 I started coding about a year ago and in that time I've come to enjoy constant error messages! Genuinely love coding and learning new ways of doing things within an ever evolving ecosystem.\
-I have just graduated from <a href='https://www.schoolofcode.co.uk/' target='_blank'>The School of Code</a> boot camp and I'm now continuing to learn new things and creating some projects to help me put them into practice. Currently moving into learning a bit about React Native.
+I have just graduated from <a href='https://www.schoolofcode.co.uk/' target='_blank'>The School of Code</a> boot camp and I'm now continuing to learn new things and creating some projects to help me put them into practice. Recently had a dabble with the exciting React Native, currently enjoying some Frontend Mentor challenges and researching Vue.js.
 
 ## Finding me
 <a href='https://www.linkedin.com/in/tom-birbeck/' target="_blank">Linkedin</a>\
