@@ -8,7 +8,7 @@ I have just graduated from <a href='https://www.schoolofcode.co.uk/' target='_bl
 <a href='https://www.frontendmentor.io/profile/TomBirbeck' target="_blank">Frontend Mentor</a>
 
  ### Front end tech I have experience with
- - HTML, CSS, Javascript, Typescript, React, Nextjs, Vite.
+ - HTML, CSS, Javascript, Typescript, React, Nextjs, React Native, Vite.
  
  ### Back end tech I have experience with
  -  Node.js, Express, SQL, Heroku, Render, Railway. 
