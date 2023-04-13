@@ -1,6 +1,6 @@
 # Hey There, I’m Tom
 I started coding about a year ago and in that time I've come to enjoy constant error messages! Genuinely love coding and learning new ways of doing things within an ever evolving ecosystem.\
-I have just graduated from <a href='https://www.schoolofcode.co.uk/' target='_blank'>The School of Code</a> boot camp and I'm now continuing to learn new things and creating some projects to help me put them into practice. Recently had a dabble with the exciting React Native, currently enjoying some Frontend Mentor challenges and researching Vue.js.
+I have just graduated from <a href='https://www.schoolofcode.co.uk/' target='_blank'>The School of Code</a> boot camp and I'm now continuing to learn new things and creating some projects to help me put them into practice. Recently had a dabble with the exciting React Native, currently enjoying some Frontend Mentor challenges and building a few small projects.
 
 ## Finding me
 <a href='https://www.linkedin.com/in/tom-birbeck/' target="_blank">Linkedin</a>\
@@ -8,7 +8,7 @@ I have just graduated from <a href='https://www.schoolofcode.co.uk/' target='_bl
 <a href='https://www.frontendmentor.io/profile/TomBirbeck' target="_blank">Frontend Mentor</a>
 
  ### Front end tech I have experience with
- - HTML, CSS, Javascript, Typescript, React, Nextjs, React Native, Vite.
+ - HTML, CSS, Javascript, Typescript, React, Nextjs, React Native, Vite, Tailwind CSS.
  
  ### Back end tech I have experience with
  -  Node.js, Express, SQL, Heroku, Render, Railway. 
